@@ -1,0 +1,1 @@
+const __w=async t=>new Promise((async e=>{let n=!1;const c=async()=>{if(!n){n=!0;try{e(await t()),s.disconnect(),n=!1}catch(t){n=!1}}},s=new MutationObserver(c);c(),s.observe(document.documentElement,{attributes:!0,childList:!0,subtree:!0})}));

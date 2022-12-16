@@ -1,0 +1,26 @@
+{
+  "name": "Waiter and AUTRATAC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@babel/cli": "^7.16.7",
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@types/babel-generator": "^6.25.4",
+    "@types/babel-traverse": "^6.25.7",
+    "@types/babylon": "^6.16.6",
+    "@types/node": "^17.0.2",
+    "babel-plugin-tester": "^10.1.0"
+  },
+  "dependencies": {
+    "babel-core": "^7.0.0-0",
+    "babel-generator": "^6.26.1",
+    "babel-template": "^6.26.0",
+    "babel-traverse": "^6.26.0",
+    "babel-types": "^6.26.0"
+  }
+}
