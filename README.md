@@ -1,6 +1,6 @@
+<p align="center"><img src="./images/logo.svg" alt="Logos of Waiter and AUTRATAC" width="400"/></p>
 
-
-# Waiter and AUTRATAC
+<h1 align="center">Waiter and AUTRATAC</h1>
 This project aims to help developers to make their code more robust by adding the functionality of delaying code. The `Waiter` code enables new dead code elimination techniques by making code more robust regarding missing code. In this case, parts of the code can be called, even if the targetted function is not available (yet). As `Waiter` needs to be inserted into all function calls, a second framework (`AUTRATAC`) is provided that automatically inserts the calls into your code. 
 
 ## Using Waiter:
