@@ -1,11 +1,11 @@
 {
   "name": "Waiter and AUTRATAC",
   "version": "1.0.0",
-  "description": "",
+  "description": "A pair of frameworks that allow delaying JavaScript code execution.",
   "main": "",
   "scripts": {},
-  "author": "",
-  "license": "",
+  "author": "Lucas Vogel",
+  "license": "Apache License 2.0",
   "devDependencies": {
     "@babel/cli": "^7.16.7",
     "@babel/core": "^7.16.7",
